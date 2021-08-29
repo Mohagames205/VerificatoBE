@@ -1,0 +1,10 @@
+---
+name: Verificato
+version: 0.0.1
+main: mohamed205\Verificato\Main
+api: 4.0.0
+
+commands:
+  link:
+    description: Link your Minecraft account with Verificato
+...
